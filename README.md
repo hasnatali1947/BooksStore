@@ -1,13 +1,17 @@
+<a name="readme-top"></a>
+
+  <h3><b>Bookstore README Template</b></h3>
+
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
-<h3><b>Calculator README Template</b></h3>
-
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Calculator\] ](#-calculator-)
+- [📖 \[Bookstore\] ](#-bookstore-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
@@ -19,35 +23,43 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Calculator] <a name="about-project"></a>
+# 📖 [Bookstore] <a name="about-project"></a>
 
-> Hello , This is a calculator Program where You can calculate any numbers.
+> Hello , This is a Bookstore application.
+**[Bookstore]** is a simple app where you can save all your books.
 
-**[Calculator]** is a simple shelf where where You can calculate any numbers.
-
-## 🛠️ Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
->  HTML , CSS and React.
+
+<details>
+  <summary>HTML</summary>
+</details>
+<details>
+  <summary>CSS</summary>
+</details>
+<details>
+  <summary>JAVASCRIPT</summary>
+</details>
+<details>
+  <summary>React</summary>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Simple Template]**
-- **[Books listed from array]**
-- **[buttons ]**
-- **[colors ]**
-- **[Dynamic styles]**
-- **[Editable texts]**
-- **[Add Delete features]**
-- **[Completed updated]**
-- **[buttons]**
-- **[colors]**
 
+- **[Setup ]**
+- **[UI Design]**
+- **[Routing Pages]**
+- **[Added Reducers]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+To get a local copy up and running, follow these steps.
 
 <!-- GETTING STARTED -->
 
@@ -73,7 +85,7 @@ And run `npm start` to launch the project .
 
 Clone this repository to your desired folder:
 
-  `git clone https://github.com/hasnatali1947/Calculator/tree/setupReact`
+  `git clone https://github.com/hasnatali1947/BooksStore.git`
 
 ### Usage
 
