@@ -34,7 +34,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>HTML</summary>
 </details>
@@ -52,7 +51,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[Setup ]**
 - **[UI Design]**
 - **[Routing Pages]**
@@ -61,7 +59,7 @@
 
 To get a local copy up and running, follow these steps.
 
-<!-- GETTING STARTED -->
+<!--- GETTING STARTED --->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
