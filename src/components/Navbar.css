@@ -17,7 +17,7 @@ header a {
   align-items: center;
 }
 
-.logo {
+.logo a {
   font-size: 32px;
   font-family: sans-serif;
   color: #0361ee;
