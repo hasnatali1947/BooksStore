@@ -51,10 +51,15 @@
 
 ### Key Features <a name="key-features"></a>
 
+
 - **[Setup ]**
 - **[UI Design]**
 - **[Routing Pages]**
 - **[Added Reducers]**
+- **[Updating Items]**
+- **[Booklist initiate]**
+- **[Updating to API]**
+- **[Productive Design]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 To get a local copy up and running, follow these steps.
